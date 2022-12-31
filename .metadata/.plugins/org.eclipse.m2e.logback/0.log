@@ -948,3 +948,9 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springfra
 2022-12-30 16:52:45,368 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2022-12-30 16:52:45,373 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-12-30 16:52:45,373 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\USUARIO\Desktop\CURSO EM VÍDEO\ProjetoSpringReact\dsmeta\backend\src\test\resources
+2022-12-30 17:15:03,611 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-30 17:15:03,612 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-30 17:15:03,614 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-30 17:15:03,617 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-30 17:15:03,617 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\USUARIO\Desktop\CURSO EM VÍDEO\ProjetoSpringReact\dsmeta\backend\src\test\resources
+2022-12-31 12:50:21,318 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
