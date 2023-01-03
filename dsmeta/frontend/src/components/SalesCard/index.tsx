@@ -26,6 +26,7 @@ function SalesCard() {
             .then(response => {
                 setSales(response.data.content);
             })
+            
     }, [minDate, maxDate]);
 
     return (
